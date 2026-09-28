@@ -1,7 +1,10 @@
 # Low Cost Motor Imagery Decoding for Rehab (Single Subject)
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80" alt="EEG brain signal illustration" width="1000" />
+  <video controls autoplay loop muted playsinline width="1000">
+    <source src="https://cdn.pixabay.com/video/2023/04/15/159049-818026306_large.mp4" type="video/mp4" />
+    <a href="https://pixabay.com/videos/brain-nervous-sci-fi-infinite-159049/">Watch the brain visualization on Pixabay</a>
+  </video>
 </div>
 
 <p align="center">
