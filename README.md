@@ -1,10 +1,9 @@
 # Low Cost Motor Imagery Decoding for Rehab (Single Subject)
 
 <div align="center">
-  <video controls autoplay loop muted playsinline width="1000">
-    <source src="https://cdn.pixabay.com/video/2023/04/15/159049-818026306_large.mp4" type="video/mp4" />
-    <a href="https://pixabay.com/videos/brain-nervous-sci-fi-infinite-159049/">Watch the brain visualization on Pixabay</a>
-  </video>
+  <a href="https://pixabay.com/videos/brain-nervous-sci-fi-infinite-159049/">
+    <img src="brain-preview.gif" alt="Animated brain visualization; click to watch the full video on Pixabay" width="1000" />
+  </a>
 </div>
 
 <p align="center">
