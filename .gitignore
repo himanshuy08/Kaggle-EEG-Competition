@@ -1,0 +1,60 @@
+# Project-specific data folders
+Training set/
+Single subject test set/
+
+# Notebook files that should stay local
+model.ipynb
+*.ipynb
+
+# Generated model artifacts
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.keras
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.model
+checkpoints/
+models/
+artifacts/
+
+# Submission and prediction outputs
+submission*.csv
+test_predictions*.csv
+predictions*.csv
+output*.csv
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Notebook output artifacts
+*.nbconvert.ipynb
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Environment files
+.env
+.env.*
+
+# Log files
+*.log
+
+# Large temporary / backup files
+*.tmp
+*.bak
